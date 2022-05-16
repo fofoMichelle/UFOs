@@ -9,7 +9,7 @@ We have created the table and created the filter search with the help of JavaScr
 
 # Results
 
-The [UFO Sightings](file:///C:/Users/19055/Desktop/Data_analytics/homework/UFOs/index.html) was created in a sense that we used a specific image for the background of our webpage which was related to the topic of the data provided.
+[UFO Sightings](file:///C:/Users/19055/Desktop/Data_analytics/homework/UFOs/index.html)was created in a sense that we used a specific image for the background of our webpage which was related to the topic of the data provided.
 
 An update of the html page and the javascript file was done to unable any user of the webpage to filter the data based on the following:
 
