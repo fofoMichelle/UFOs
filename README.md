@@ -18,7 +18,7 @@ An update of the html page and the javascript file was done to unable any user o
 - State
 - Country
 - Shape
-Below is how the final webpage looks [click here](file:///C:/Users/19055/Desktop/Data_analytics/homework/UFOs/index.html)
+Below is how the final webpage looks 
 
 ![image](https://user-images.githubusercontent.com/99924850/168510077-e9c09e8c-14d5-48db-9e38-c518b5d547c9.png)
 
